@@ -1,0 +1,7 @@
+{
+    "name": "GraphQL Sample App",
+    "dockerComposeFile": "/home/pedro/docker/compose-node.yaml",
+    "service": "node-abrix",
+    "workspaceFolder": "/home/appuser/code/square/connect-api-examples/connect-examples/v2/graphql-sample-app",
+    "shutdownAction": "stopCompose"
+}
