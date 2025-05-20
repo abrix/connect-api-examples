@@ -2,3 +2,5 @@ target/
 vendor/
 composer.phar
 composer.lock
+
+connect-examples/v2/graphql-sample-app/.env
